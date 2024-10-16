@@ -1,48 +1,56 @@
+🌟 Django
 ======
-Django
-======
+
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/arc-eng-labs/django/actions)
+[![License](https://img.shields.io/badge/license-BSD-blue)](https://opensource.org/licenses/BSD-3-Clause)
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 
 Django is a high-level Python web framework that encourages rapid development
 and clean, pragmatic design. Thanks for checking it out.
+
+📚 Documentation
+----------------
 
 All documentation is in the "``docs``" directory and online at
 https://docs.djangoproject.com/en/stable/. If you're just getting started,
 here's how we recommend you read the docs:
 
 * First, read ``docs/intro/install.txt`` for instructions on installing Django.
-
 * Next, work through the tutorials in order (``docs/intro/tutorial01.txt``,
   ``docs/intro/tutorial02.txt``, etc.).
-
 * If you want to set up an actual deployment server, read
   ``docs/howto/deployment/index.txt`` for instructions.
-
 * You'll probably want to read through the topical guides (in ``docs/topics``)
   next; from there you can jump to the HOWTOs (in ``docs/howto``) for specific
-  problems, and check out the reference (``docs/ref``) for gory details.
-
+  problems, and check out the reference (``docs/ref``) for detailed information.
 * See ``docs/README`` for instructions on building an HTML version of the docs.
 
 Docs are updated rigorously. If you find any problems in the docs, or think
 they should be clarified in any way, please take 30 seconds to fill out a
 ticket here: https://code.djangoproject.com/newticket
 
+💬 Community and Support
+------------------------
+
 To get more help:
 
 * Join the ``#django`` channel on ``irc.libera.chat``. Lots of helpful people
   hang out there. `Webchat is available <https://web.libera.chat/#django>`_.
-
 * Join the django-users mailing list, or read the archives, at
   https://groups.google.com/group/django-users.
-
 * Join the `Django Discord community <https://discord.gg/xcRH6mN4fa>`_.
-
 * Join the community on the `Django Forum <https://forum.djangoproject.com/>`_.
+
+🤝 Contributing to Django
+-------------------------
 
 To contribute to Django:
 
 * Check out https://docs.djangoproject.com/en/dev/internals/contributing/ for
   information about getting involved.
+
+🧪 Running Tests
+----------------
 
 To run Django's test suite:
 
@@ -50,8 +58,8 @@ To run Django's test suite:
   ``docs/internals/contributing/writing-code/unit-tests.txt``, published online at
   https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-the-unit-tests
 
-Supporting the Development of Django
-====================================
+💖 Supporting the Development of Django
+=======================================
 
 Django's development depends on your contributions.
 
