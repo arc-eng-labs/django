@@ -1,10 +1,13 @@
 ======
-Django
+🌐 Django
 ======
+
+![Django: Framework](https://img.shields.io/badge/Django-Framework-blue)
 
 Django is a high-level Python web framework that encourages rapid development
 and clean, pragmatic design. Thanks for checking it out.
 
+📚 **Documentation**
 All documentation is in the "``docs``" directory and online at
 https://docs.djangoproject.com/en/stable/. If you're just getting started,
 here's how we recommend you read the docs:
@@ -27,6 +30,7 @@ Docs are updated rigorously. If you find any problems in the docs, or think
 they should be clarified in any way, please take 30 seconds to fill out a
 ticket here: https://code.djangoproject.com/newticket
 
+💬 **Get Help**
 To get more help:
 
 * Join the ``#django`` channel on ``irc.libera.chat``. Lots of helpful people
@@ -39,17 +43,20 @@ To get more help:
 
 * Join the community on the `Django Forum <https://forum.djangoproject.com/>`_.
 
+🤝 **Contribute to Django**
 To contribute to Django:
 
 * Check out https://docs.djangoproject.com/en/dev/internals/contributing/ for
   information about getting involved.
 
+🧪 **Run Tests**
 To run Django's test suite:
 
 * Follow the instructions in the "Unit tests" section of
   ``docs/internals/contributing/writing-code/unit-tests.txt``, published online at
   https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-the-unit-tests
 
+💖 **Support Django Development**
 Supporting the Development of Django
 ====================================
 
